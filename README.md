@@ -1,2 +1,2 @@
-# emulator
-The Financial System Emulator for Quarkonium
+# Dasset Emulator
+`A Quarkonium Dapps Emulator`
